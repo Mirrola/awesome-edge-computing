@@ -303,6 +303,18 @@ WSO2–IoT server includes the embedded Siddhi 3.0 component that allows the sys
 to deploy real-time streaming processes in embedded devices. In other words,
 WSO2–IoT server provides the FEC computing capability to outer-edge devices.
 
+- [EdgeX Foundry](https://www.edgexfoundry.org/): EdgeX Foundry is a highly flexible and 
+scalable open source software framework that facilitates interoperability between 
+devices and applications at the IoT Edge.
+
+- [Akraino Edge Stack](https://www.lfedge.org/projects/akraino/): Akraino is a set of open 
+infrastructures and application blueprints for the Edge, spanning a broad variety of use 
+cases, including 5G, AI, Edge IaaS/PaaS, IoT, for both provider and enterprise edge 
+domains.  These Blueprints have been created by the Akraino community and focus 
+exclusively on the edge in all of its different forms.  What unites all of these 
+blueprints is that they have been tested by the community and are ready for adoption as-is,
+or used as a starting point for customizing a new edge blueprint.
+
 
 ## Networks
 - [Awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools):A collection
